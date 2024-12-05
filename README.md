@@ -1,5 +1,7 @@
 # ReXx-CLONER
-- BEST CLONER MADE IN PYTHON , Made By [ReX](https://discordapp.com/users/1237086498076098762/).
+- The **best cloner** built in Python, created by [ReX](https://discordapp.com/users/1237086498076098762/).
+- **Advanced** and **fast** performance for optimal cloning experience.
+- Reliable, easy-to-use tool with a sleek interface.
 
 
 # SCREENSHOT
