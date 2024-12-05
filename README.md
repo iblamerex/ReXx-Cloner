@@ -6,6 +6,8 @@
 
 # SCREENSHOT
 ![image](https://github.com/user-attachments/assets/74fe8acd-d220-4c31-825b-3f50468e2c25)
+![image](https://github.com/user-attachments/assets/43da33bb-5f81-46fc-8dfd-a2903fa650c4)
+![image](https://github.com/user-attachments/assets/3c9cbecc-32e6-4fde-8232-355df0cf7dba)
 
 
 # How to Use
